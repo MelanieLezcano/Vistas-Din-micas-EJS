@@ -5,7 +5,7 @@
  */
 
 var app = require('../app');
-var debug = require('debug')('vistas-dinamicas-ejs:server');
+var debug = require('debug')('generator:server');
 var http = require('http');
 
 /**
